@@ -40,8 +40,8 @@
 
 @font-face {
     font-family: 'verdanabold';
-    src: url('content/fonts-new/verdana_bold.woff2') format('woff2'),
-         url('content/fonts-new/verdana_bold.woff') format('woff');
+    src: url('../fonts-new/verdana_bold.woff2') format('woff2'),
+         url('../fonts-new/verdana_bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
